@@ -4,50 +4,14 @@
     margin: 0;
 }
 
-h1 {
-    font-size: 18px;
+.ordered__Likes {
+    background-color: blue;
 }
 
-main {
-    max-width: 70vw;
-    margin: 0 auto;
+#ordered__Likes__cunning{
+    background-color: yellow;
 }
 
-.first__section {
-    font-size: 14px;
-    color: green;
-    line-height: 2;
-    border: 1px solid green;
-    border-radius: 10px;
-    padding: 2em 1em;
-    margin-top: 1em;
-}
-
-.first__section span {
-    font-weight: 900;
-}
-
-.second__section {
-    color: red;
-    border: 1px solid red;
-    border-radius: 10px;
-    padding: 2em 1.5em;
-    line-height: 2;
-    margin-top: 1em;
-    font-size: 14px;
-}
-
-.third__section {
-    color: blue;
-    border: 1px solid blue ;
-    border-radius: 10px;
-    padding: 2em 1.5em;
-    line-height: 2;
-    margin-top: 1em;
-    font-size: 14px;
-    margin-bottom: 1em;
-}
-
-.third__section span {
-    font-style: italic;
+.cunning {
+    background-color: blueviolet;
 }
